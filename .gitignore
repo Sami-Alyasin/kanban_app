@@ -1,10 +1,7 @@
-# Ignore any nested .git directories
-/kanban_app/**/.git
-
 # ignore the test folder and its contents
-kanban_app/test/
+test/
 
 # ignore sensitive info
-kanban_app/.streamlit/
+.streamlit/
 
 
