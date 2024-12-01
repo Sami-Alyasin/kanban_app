@@ -11,5 +11,8 @@ The app currently will retain the data in memory for a single session, if you re
 - Clear the board entirely
 
 ### Future enhancements:
+- Task editing
+- Task prioritization
+- Filter and search
 - Set up user authentication using Firebase to allow the data to persist in more than one session. Data will be written to a Firestore database.
 - Enable authenticated users to provide project scope to a chat bot and have their To Do section created for them.
