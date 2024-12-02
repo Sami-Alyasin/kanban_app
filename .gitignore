@@ -1,7 +1,9 @@
 # ignore the test folder and its contents
 test/
 
+#ignore the dev folder and its contents
+
+dev/
+
 # ignore sensitive info
 .streamlit/
-
-
